@@ -1,13 +1,15 @@
 {
   "name": "zhen-dong",
-  "version": "0.0.1",
-  "repository": "https://github.com/ChenH0ng/Zhen-Dong",
+  "version": "0.0.2",
+  "repository": "https://github.com/ChenH0ng/zhen-dong",
   "keywords": [
     "zhen-dong"
   ],
   "author": "ChenH0ng",
-  "license": "MIT License",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.15"
+    "electron": "^1.4.15",
+    "electron-connect": "^0.6.1",
+    "gulp": "^3.9.1"
   }
 }
