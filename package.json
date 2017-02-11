@@ -1,0 +1,13 @@
+{
+  "name": "zhen-dong",
+  "version": "0.0.1",
+  "repository": "https://github.com/ChenH0ng/Zhen-Dong",
+  "keywords": [
+    "zhen-dong"
+  ],
+  "author": "ChenH0ng",
+  "license": "MIT License",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
